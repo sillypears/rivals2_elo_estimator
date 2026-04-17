@@ -396,3 +396,4 @@ data/*
 include/*
 bin/*
 logs/*
+.hide/*
